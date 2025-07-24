@@ -4,7 +4,7 @@
 This repository is supplementary to the manuscript “Importance of spatially-continuous urban representation in advancing high-resolution urban-resolving Earth system modeling”.
 
 ### Data
-Simulation outputs, post-processed data and validation datasets are publicly available at [Figshare](10.6084/m9.figshare.29640872).
+Simulation outputs, post-processed data and validation datasets are publicly available at [Figshare](https://doi.org/10.6084/m9.figshare.29640872).
 
 ### Scripts
 Scripts for generating the main text figures are provided below:
