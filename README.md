@@ -38,5 +38,7 @@ Scripts for generating the supplementary figures are provided below:
 | [FigureS9](https://github.com/Charlotte1891/Urban_resolving_CESM/blob/master/03_supplements/FigureS9_TSA_diurnal_range.ipynb) | Comparison of CTRL and USURF diurnal T2M range | CTRL_UHR,USURF_UHR |
 | [FigureS10](https://github.com/Charlotte1891/Urban_resolving_CESM/blob/master/03_supplements/FigureS10_PRISM_JJA_DJF.ipynb) | Comparison of modeled vs. PRISM T2M | CTRL_UHR,USURF_UHR |
 | [FigureS11](https://github.com/Charlotte1891/Urban_resolving_CESM/blob/master/03_supplements/FigureS11_urban_stations_R2.ipynb) | Validation of modeled vs. observed T2M & RH in JJA | CTRL_MR,USURF_MR |
+| [FigureS12](https://github.com/Charlotte1891/Urban_resolving_CESM/blob/master/03_supplements/FigureS12_PLUMBER_bias_by_sites.ipynb) | Comparison of CTRL,USURF,DETAILED plumber simulations by sites | SP_CTRL_1km,SP_USURF_1km,SP_DETAILED_1km |
+| [FigureS13](https://github.com/Charlotte1891/Urban_resolving_CESM/blob/master/03_supplements/FigureS13_PLUMBER_bias_xScale_by_sites.ipynb) | Impact of spatial resolution on surface fluxes by sites| SP_USURF_LR,SP_USURF_MR,SP_USURF_UHR,SP_USURF_1km |
 
 Code modifications for running single-point simulations at Urban-PLUMBER sites are documented in [02_plumber_code_mod](https://github.com/Charlotte1891/Urban_resolving_CESM/blob/master/02_plumber_code_mod). Lines between !KO were modified by [Dr. Keith Oleson](https://github.com/olyson).
