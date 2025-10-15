@@ -36,7 +36,7 @@ Scripts for generating the supplementary figures are provided below:
 | [FigureS7](https://github.com/yifanc17/Urban_resolving_CESM/blob/master/03_supplements/FigureS7_urban_stations_DJF.ipynb) | Validation of modeled vs. observed T2M & RH in DJF | CTRL_MR,USURF_MR |
 | [FigureS8](https://github.com/yifanc17/Urban_resolving_CESM/blob/master/03_supplements/FigureS8_cooling_trend_CONUS.ipynb) | Comparison of CTRL and USURF LST and T2M in JJA | CTRL_UHR,USURF_UHR |
 | [FigureS9](https://github.com/yifanc17/Urban_resolving_CESM/blob/master/03_supplements/FigureS9_TSA_diurnal_range.ipynb) | Comparison of CTRL and USURF diurnal T2M range | CTRL_UHR,USURF_UHR |
-| [FigureS10](https://github.com/yifanc17/Urban_resolving_CESM/blob/master/03_supplements/FigureS10_urban_stations_KS_JJA.ipynb) | KS test of modeled vs. observed T2M & RH in JJ | CTRL_UHR,USURF_UHR |
+| [FigureS10](https://github.com/yifanc17/Urban_resolving_CESM/blob/master/03_supplements/FigureS10_urban_stations_KS_JJA.ipynb) | KS test of modeled vs. observed T2M & RH in JJA | CTRL_UHR,USURF_UHR |
 | [FigureS11](https://github.com/yifanc17/Urban_resolving_CESM/blob/master/03_supplements/FigureS11_urban_stations_R2_JJA.ipynb) | Validation of modeled vs. observed T2M & RH in JJA | CTRL_MR,USURF_MR |
 | [FigureS12](https://github.com/yifanc17/Urban_resolving_CESM/blob/master/03_supplements/FigureS12_PLUMBER_bias_by_sites.ipynb) | Comparison of CTRL,USURF,DETAILED plumber simulations by sites | SP_CTRL_1km,SP_USURF_1km,SP_DETAILED_1km |
 | [FigureS13](https://github.com/yifanc17/Urban_resolving_CESM/blob/master/03_supplements/FigureS13_PLUMBER_bias_xScale_by_sites.ipynb) | Impact of spatial resolution on surface fluxes by sites| SP_USURF_LR,SP_USURF_MR,SP_USURF_UHR,SP_USURF_1km |
