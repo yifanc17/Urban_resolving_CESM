@@ -18,9 +18,10 @@ Scripts for generating the main text figures are provided below:
 | [Figure6](https://github.com/yifanc17/Urban_resolving_CESM/blob/master/01_simulation_eval/Figure6_urban_stations_JJA.ipynb) | Validation of modeled vs. observed T2M & RH in JJA | CTRL_MR,USURF_MR |
 | [Figure7](https://github.com/yifanc17/Urban_resolving_CESM/blob/master/01_simulation_eval/Figure7_PLUMBER_taylor_diagram.ipynb) | Comparison of CTRL,USURF,DETAILED plumber simulations | SP_CTRL_1km,SP_USURF_1km,SP_DETAILED_1km |
 | [Figure8](https://github.com/yifanc17/Urban_resolving_CESM/blob/master/01_simulation_eval/Figure8_PLUMBER_longterm_avg.ipynb) | Comparison of CTRL,USURF,DETAILED plumber simulations | SP_CTRL_1km,SP_USURF_1km,SP_DETAILED_1km |
-| [Figure9](https://github.com/yifanc17/Urban_resolving_CESM/blob/master/01_simulation_eval/Figure9_spatial_analysis.ipynb) | Spatial scaling analysis | USURF_LR,USURF_MR,USURF_HR,USURF_UHR |
-| [Figure10](https://github.com/yifanc17/Urban_resolving_CESM/blob/master/01_simulation_eval/Figure10_PCA_info_loss_driver.ipynb) | Drivers of information loss | USURF_LR,USURF_MR,USURF_HR,USURF_UHR |
-| [Figure11](https://github.com/yifanc17/Urban_resolving_CESM/blob/master/01_simulation_eval/Figure11_PLUMBER_xScale.ipynb) | Impact of spatial resolution on surface fluxes | SP_USURF_LR,SP_USURF_MR,SP_USURF_UHR,SP_USURF_1km |
+| [Figure9](https://github.com/yifanc17/Urban_resolving_CESM/blob/master/01_simulation_eval/Figure9_multivariate_linear_regression.ipynb) | Multivariate linear regression to show impact of UCPs | CTRL_UHR,USURF_UHR |
+| [Figure10](https://github.com/yifanc17/Urban_resolving_CESM/blob/master/01_simulation_eval/Figure10_spatial_analysis.ipynb) | Spatial scaling analysis | USURF_LR,USURF_MR,USURF_HR,USURF_UHR |
+| [Figure11](https://github.com/yifanc17/Urban_resolving_CESM/blob/master/01_simulation_eval/Figure11_CONUS_2deg_PLS_PCA.ipynb) | sPCA diagnosing drivers of information loss | USURF_LR,USURF_MR,USURF_HR,USURF_UHR |
+| [Figure12](https://github.com/yifanc17/Urban_resolving_CESM/blob/master/01_simulation_eval/Figure12_PLUMBER_xScale.ipynb) | Impact of spatial resolution on surface fluxes | SP_USURF_LR,SP_USURF_MR,SP_USURF_UHR,SP_USURF_1km |
 
 
 Scripts for generating the supplementary figures are provided below: 
