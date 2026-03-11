@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Cheng"
+  given-names: "Yifan"
+  orcid: "https://orcid.org/0000-0002-0618-5830"
+title: "Urban_resolving_CESM"
+version: 1.1
+doi: 10.5281/zenodo.18968484
+date-released: 2026-03-11
+url: "https://github.com/yifanc17/Urban_resolving_CESM"
